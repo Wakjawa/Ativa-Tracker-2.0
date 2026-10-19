@@ -1,0 +1,8 @@
+{
+  "name": "Ativa Tracker",
+  "description": "Track monthly commitment and savings required to own the Perodua Ativa AV 2-Tone Pearl Diamond White with customizable expenses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
